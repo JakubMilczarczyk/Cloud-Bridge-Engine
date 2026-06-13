@@ -1,0 +1,13 @@
+# Secrets and Environment Variables
+.env
+*.pem
+*.key
+
+# Terraform 
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+
+# Mac/System
+.DS_Store
