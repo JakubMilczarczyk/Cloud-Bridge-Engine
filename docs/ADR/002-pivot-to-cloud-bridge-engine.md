@@ -1,7 +1,7 @@
-# ADR [002]: pivot to cloud bridge engine
+# ADR 002: pivot to cloud bridge engine
 
-**Date:** [2026-06-14]
-**Status:** [Accepted / Proposed / Rejected]
+**Date:** 2026-06-14
+**Status:** Accepted
 
 ## Context
 The main data provider (Upwork) has blocked the free information stream (no RSS and free email notifications).

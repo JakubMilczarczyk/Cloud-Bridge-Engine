@@ -1,4 +1,4 @@
-# ADR [Number]: [Short decision title]
+# ADR 001: [Short decision title]
 
 **Date:** [YYYY-MM-DD]
 **Status:** Accepted
